@@ -1,0 +1,7 @@
+slprj/
+*.slxc
+*.asv
+*.autosave
+q8_*.txt
+q8_*.txt.gz
+resultats_*.mat
