@@ -8,7 +8,7 @@ Hanaa MORINE – Enseignant : Youssef SERRESTOU
 
 | Élément | Où le trouver |
 |---|---|
-| Rapport | [`rapport/Rapport_TP_Transmission_Morine.pdf`](rapport/Rapport_TP_Transmission_Morine.pdf) |
+| Rapport | Dossier [`rapport/`](rapport/) |
 | Programmes Matlab et modèles Simulink | Dossier [`matlab/`](matlab/) |
 | Vidéo de présentation (partie 2, codage de source) | [Lien Google Drive](https://drive.google.com/file/d/1_zS_u4LZXxvzqMcdxIF4yAUI5iZU3nUz/view?usp=sharing), copie dans [`presentation/`](presentation/) |
 | Déclaration sur l'usage de l'IA | [`DECLARATION_IA.md`](DECLARATION_IA.md) |
